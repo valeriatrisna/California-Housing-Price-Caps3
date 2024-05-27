@@ -1,4 +1,4 @@
-# California-Housing-Price-Caps3
+# Forecasting California Real Estate: Machine Learning for Banking Industries
 
 ## **Context**
 California adalah sebuah negara bagian di Barat Amerika Serikat, terletak di sepanjang Pantai Pasifik Amerika dengan ibu kotanya adalah Sacramento. Pada tahun 2020, populasi California diperkirakan sekitar 39,5 juta orang, menjadikannya salah satu negara bagian paling padat penduduk di AS. Negara bagian ini mencakup luas wilayah 423.967 KM2. Kepadatan penduduk California sekitar 93,17 orang per KM2. Dari tahun 2010 hingga 2020, California mengalami peningkatan populasi sebesar 5,8%, yang setara dengan sekitar 2,4 juta penduduk tambahan.
